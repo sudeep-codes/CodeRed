@@ -1,5 +1,7 @@
 # Healthcare Triage Classification (MM26ML03)
 **Team ID:** MM2645
+**Member 1:** Shrijay Sinha (https://github.com/ShrijaySinha0102)
+**Member 2:** Sudeep Kumar Sahu (https://github.com/sudeep-codes)
 
 ## Problem Statement
 In emergency mass-casualty scenarios, accurately prioritizing patients (triage) using the START protocol is extremely difficult. Misclassifying a critical patient as stable comes with a severe clinical penalty, costing lives. Our goal was to automate triage assignment using patient vitals, consciousness scores, and demographics while explicitly minimizing a strict, asymmetric cost matrix where certain false negatives (e.g., misclassifying a RED patient as GREEN) carry high penalties.
