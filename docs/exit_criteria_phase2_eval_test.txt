@@ -1,0 +1,16 @@
+Accuracy: 0.8000
+Macro-F1: 0.8333
+Weighted-F1: 0.8000
+Total Misclassification Cost: 5
+
+Per-class:
+  RED: P=1.000 R=0.500 F1=0.667
+  YELLOW: P=0.500 R=1.000 F1=0.667
+  GREEN: P=1.000 R=1.000 F1=1.000
+  BLACK: P=1.000 R=1.000 F1=1.000
+
+Confusion Matrix:
+[[1 1 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+ [0 0 0 1]]
